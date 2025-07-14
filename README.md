@@ -36,12 +36,6 @@ Ferramenta simples e funcional em HTML + JavaScript para organizar listas IPTV n
 
 ---
 
-## 📄 Licença
-
-Este projeto é livre para uso pessoal. Para usos comerciais, contactar o autor.
-
----
-
 ## 👨‍💻 Acesso:
 
 **[ORGANIZADOR M3U](https://xyzprojects.pt/organizadorm3u)**
